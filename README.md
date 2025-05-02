@@ -1,65 +1,25 @@
-## Hello world I'm Rohan Isagani👋
+![baner](img/Github%20canvas.png)
 >Welcome to my Github
 >you will see profile and everything in my github account
-
-<!--
-**rohanwebcode/rohanwebcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-**Bahasa pemrograman yang dikuasai:**
-- HTML5
-- CSS3
-- Javascript
-- Tailwind
-- Git
-- Github
-
-Saat ini aku sedang belajar bahasa pemrograman ***Javascript***. Lihat terus perkembanganku di repositoei akun ini
-
-Lihat sedikit project ku yang telah selesai
-
-[Word web](https://webcoderhn.netlify.app)
-[Webcode](https://webcoderohan.netlify.app)
-😉
-`
-Lihat selengkapnya tantang aku di dunia programing
-`
-
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
+>
+<div align='center'>
 </div>
 
+**See my progress and my skills with computers**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohanwebcode&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rohanwebcode&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,git,github,netlify,vscode,windows&perline=5)
+I am currently learning the programming language ***Javascript***. Keep an eye on my progress in this account's repository. Look all my progress is in this statistical data.
 
-###
+![Rohan isagani GitHub stats](https://github-readme-stats.vercel.app/api?username=rohanwebcode&show_icons=true&theme=holi&hide=issues)
+
+>[!NOTE]
+>Ask me about everything and don't forget to follow
+
+![https://www.instagram.com/rohanisagani/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![https://www.linkedin.com/in/rohan-isagani-18527b2bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
+![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 
 
-###
