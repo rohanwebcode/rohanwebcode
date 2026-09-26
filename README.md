@@ -1,7 +1,13 @@
 ![baner](img/banner_motd_github_new.png)
->Welcome to my Github
+# 👋 Hello, I'm Rohan Isagani!
+>Welcome to my Github,
 >you will see profile and everything in my github account
->
+
+<div align="left">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portofolio-rohanisagani.pages.dev-2ea44f?style=for-the-badge)](https://rohanisagani.pages.dev)
+
+</div>
 
 **See my progress and my skills with computers💻**
 
