@@ -1,4 +1,4 @@
-![baner](img/Github%20canvas.png)
+![baner](img/banner_motd_github_new.png)
 >Welcome to my Github
 >you will see profile and everything in my github account
 >
@@ -9,8 +9,6 @@
 
 
 I am currently learning the programming language ***Javascript***. Keep an eye on my progress in this account's repository. Look all my progress is in this statistical data.
-
-![Rohan isagani GitHub stats](https://github-readme-stats.vercel.app/api?username=rohanwebcode&show_icons=true&theme=holi&hide=issues)
 
 >[!NOTE]
 >Ask me about everything and don't forget to follow 😂😉😁
